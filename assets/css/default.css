@@ -1,0 +1,58 @@
+.tumblr-layout-default .tumblr-item{
+    float:left;
+    width:33.33%;
+    position: relative;
+    margin-bottom: 20px;
+}
+.tumblr-layout-default .tumblr-item .item-inner{
+    padding:10px;
+}
+.tumblr-layout-default .tumblr-item img{
+    width:100%;
+    height: auto;
+    cursor: pointer;
+}
+.tumblr-layout-default .tumblr-item.video .tumblr-gallery-play-btn {
+    position: absolute;
+    left: 35%;
+    right: auto;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    width: auto;
+    height: auto;
+    max-width: 100px;
+}
+.tumblr-layout-default .info-item{
+    position:absolute;
+    top:50%;
+    margin-top: -30px;
+    width:100%;
+    text-align: center;
+}
+.info-item{
+    font-size:15px;
+}
+.info-item .note-count{
+    color:#D95E5D;
+}
+.note_count{
+    display:block;
+    font-size:13px;
+    text-align:center;
+}
+figcaption a{
+    text-decoration: none;
+}
+.effect-kira i{
+    color:#101010;
+}
+div .tumblr-layout-default figure.effect-kira{
+    margin:0;
+}
+.tumblr-layout-default figure.effect-kira .kira-item{
+    padding:5px;
+}

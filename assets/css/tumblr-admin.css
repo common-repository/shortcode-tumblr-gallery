@@ -1,0 +1,149 @@
+.toplevel_page_tumblr_gallery .wp-menu-image img{
+    width:20px;
+    height:auto;
+}
+.tumblr-wrap table th{
+    background:#46AFDB;
+    font-weight:bold;
+}
+.tumblr-wrap table textarea{
+    height:45px;
+    line-height: 35px;
+}
+.tumblr-wrap{
+    padding-top:20px;
+}
+.tumblr-wrap a{
+    cursor:pointer;
+}
+.tumblr-wrap .tumblr-content{
+    margin-right:350px;
+}
+.tumblr-wrap .basic-info{
+    padding:30px 0;
+    float:left;
+    width:100%;
+    background: #fff;
+}
+.tumblr-wrap .basic-info .tumblr_field{
+    padding:0 30px;
+}
+.tumblr-wrap .basic-options .box-option{
+    padding:30px;
+    margin-bottom: 30px;
+    background:#fff;
+}
+.tumblr-wrap .basic-options{
+    width:300px;
+    float:right;
+    margin-right:-330px;
+}
+.tumblr-wrap .basic-options h3{
+    margin:0;
+}
+.tumblr-wrap form label{
+    display:block;
+    margin-top:15px;
+    margin-bottom:5px;
+    font-weight:bold;
+}
+.tumblr-title{
+    margin-bottom: 30px;
+}
+.tumblr-title h3{
+    display:inline-block;
+    padding-right:30px;
+}
+.tumblr-title  a.tumblr_add_new{
+    display:inline-block;
+    color:#fff;
+    background:#0073aa;
+    padding:5px 15px;
+    border:none;
+    border-radius:3px;
+}
+.tumblr-content .basic-options textarea{
+    width:100%;
+}
+.tumblr-content .basic-options select,
+.tumblr-content .basic-options input[type="text"]{
+    width:100%;
+}
+.tumblr-content select{
+    width:350px;
+    line-height: 35px;
+    padding:0 8px;
+    height:35px;
+}
+.tumblr-content input[type="text"]{
+    width:350px;
+    color:#444;
+    line-height: 35px;
+    height:35px;
+    padding:0 12px;
+}
+.tumblr_field label{
+    margin-bottom:10px;
+}
+.tumblr-button{
+    padding:15px 30px;
+    margin-top: 20px;
+}
+.tumblr-delete{
+    height:30px;
+    line-height: 28px;
+    padding:0 12px 2px;
+    color:#fff;
+    background:#D95E40;
+    text-align: center;
+    display:inline-block;
+    margin-left: 30px;
+    width: 80px;
+    border-radius:3px;
+}
+.tumblr-delete:hover{
+    color:#fff;
+}
+.wp-list-table .tumblr-delete{
+    margin:0;
+    width:60px;
+
+}
+.tumblr-content a{
+    text-decoration: none;
+}
+.tumblr-content .info{
+    margin-top:5px;
+    font-size:14px;
+}
+.tumblr-wrap-about h3{
+    text-transform: uppercase;
+}
+.tumblr-wrap-about .tumblr_suggest{
+    width: 400px;
+}
+.tumblr_suggest input{
+    width:100%;
+    height:35px;
+    line-height: 35px;
+    display:block;
+    margin-top:20px;
+    padding:0 10px;
+}
+.tumblr_suggest textarea{
+    width:100%;
+    line-height: 25px;
+    padding:10px;
+    margin-top: 20px;
+}
+.tumblr_suggest button{
+    display: inline-block;
+    color: #fff;
+    background: #0073aa;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 15px;
+    cursor: pointer;
+    float:right;
+}
